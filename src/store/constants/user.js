@@ -1,0 +1,1 @@
+export const SET_USERS = "app/users/SET_USERS";
